@@ -267,7 +267,3 @@ Mixes visual patches and text tokens to create fine-grained, semantically cohere
 Augmentor adjusts its behavior based on image–text alignment and object label density.
 
 Together, these components build a hybrid multimodal augmentation framework for robust image–text retrieval.
-
----
-
-This README summarizes the design, purpose, and workflow of the entire project, from baseline to your final hybrid augmentation method.
