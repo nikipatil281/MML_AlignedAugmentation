@@ -1,0 +1,11 @@
+dataset:
+  name: coco_retrieval
+  root: "data/coco"
+  images_dir: "data/coco/images/val2017"
+  captions_json: "data/coco/annotations/captions_val2017.json"
+  instances_json: "data/coco/annotations/instances_val2017.json"
+  num_train_images: 4000
+  num_val_images: 500
+  num_test_images: 500
+  random_seed: 42
+
