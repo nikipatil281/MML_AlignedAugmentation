@@ -4,3 +4,13 @@ __pycache__/
 *.pyo
 *.pyd
 *.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Other common junk
+*.log
+.idea/
+.vscode/
